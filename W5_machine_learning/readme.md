@@ -4,8 +4,7 @@
 Abrir en Google Colab. 
 ```
 
-### Día 1: Lunes 09/10/2023: 
-
+### Día 1: Lunes 09/10/2023: [bigdata_HTF/W5_machine_learning/20231009/readme.md][PlDb]
 M5 - 01 - Python Notebook 
 
 M5 - 02 - Condicionales 
