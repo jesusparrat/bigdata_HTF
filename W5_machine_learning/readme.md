@@ -1,4 +1,4 @@
-# Recopilación de archivos de la semana del curso de Big Data - Hackea Tu Futuro centrada en Machine Learning. 
+# Recopilación de archivos del curso de Big Data - Hackea Tu Futuro de la semana centrada en Machine Learning. 
 
 ```sh
 Abrir en Google Colab. 
