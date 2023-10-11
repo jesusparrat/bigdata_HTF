@@ -11,3 +11,13 @@ M5 - 01 - Python Notebook
 M5 - 02 - Condicionales 
 
 M5 - 03 - Bucles
+
+### Día 2: Martes 10/10/2023:
+
+M5 - 4 - Pandas
+
+SpaceX - 1 - Data Collection
+
+SpaceX - 2 - EDA with Data Visualization
+
+SpaceX - 3 - EDA
