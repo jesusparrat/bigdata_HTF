@@ -21,3 +21,13 @@ SpaceX - 1 - Data Collection
 SpaceX - 2 - EDA with Data Visualization
 
 SpaceX - 3 - EDA
+
+### Día 3: Miércoles 11/10/2023:
+
+M5 - 6 - Intro Machine Learning Scikit Learn
+
+M5 - 9 - Folium
+
+Prophet v2 - Predict Coca-Cola stock market in 365 days
+
+SpaceX - 3 - EDA with SQL
