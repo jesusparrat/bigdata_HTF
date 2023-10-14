@@ -31,3 +31,11 @@ M5 - 9 - Folium
 Prophet v2 - Predict Coca-Cola stock market in 365 days
 
 SpaceX - 3 - EDA with SQL
+
+### Día 4: Viernes 13/10/2023:
+
+SpaceX v2 - 6 - Machine Learning Predicciones
+
+SpaceX v2 - Interactive Visual Analytics with Folium
+
+ProjectBD - Proyecto personal 
