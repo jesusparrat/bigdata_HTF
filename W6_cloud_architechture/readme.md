@@ -1,7 +1,7 @@
 # Recopilación de archivos del curso de Big Data - Hackea Tu Futuro de la semana centrada en Arquitectura Cloud & Big Data. 
 
 ```sh
-Abrir en Databricks. 
+Abrir .ipynb en Databricks. 
 ```
 
 ### Día 3: Miércoles 18/10/2023:
