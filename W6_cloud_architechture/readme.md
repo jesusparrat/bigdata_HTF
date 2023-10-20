@@ -16,3 +16,7 @@ Abrir .ipynb en Databricks.
 * 1. Pares K-V - Resumen de ejemplos de funciones para uso de clave-valor
 
 * 2. Ejercicio Práctico - Filtración de un .txt y limpiar los valores de la humedad en los sensores. 
+
+### Día 5: Viernes 20/10/2023:
+
+* 1. Dataframes - Resumen de conceptos para dataframes en PySpark. *Archivos necesarios en la carpeta /datasets*
