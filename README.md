@@ -1,4 +1,4 @@
-# Recopilación de material del curso de Big Data - Hackea Tu Futuro 
+# Recopilación de material del curso de Big Data - Hackea Tu Futuro - The Valley 
 
 * Copyright :copyright: 2023
 * Written by: Jesús Parra Torrijos @jesuspt98 
@@ -7,7 +7,7 @@
 <br/>
 
 ## Description
-Este repositorio es una recopilación de archivos que he ido generando a lo largo del curso que he formado parte de Big Data por parte de Hackea Tu Futuro en coordinación con [red.es](red.es)
+Este repositorio es una recopilación de archivos que he ido generando a lo largo del curso que he formado parte de Big Data por parte de Hackea Tu Futuro en coordinación con [red.es](red.es) y [The Valley](thevalley.es)
 
 ## Archivos
 #### Para archivos .ipynb en la carpeta /W5_machine_learning:
